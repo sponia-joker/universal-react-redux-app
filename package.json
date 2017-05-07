@@ -1,0 +1,9 @@
+{
+  "name": "universal-react-redux-app",
+  "version": "1.0.0",
+  "description": "universal-react-redux-app",
+  "main": "index.js",
+  "repository": "https://github.com/sponia-joker/universal-react-redux-app",
+  "author": "joker",
+  "license": "MIT"
+}
